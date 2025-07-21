@@ -1,1 +1,1 @@
-This folder contains the 10 sql leetcode questions
+This folder contains the answers to 10 sql leetcode questions
